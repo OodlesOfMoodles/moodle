@@ -233,7 +233,7 @@ class icon_system_fontawesome extends icon_system_font {
             'core:i/groupv' => 'fa-user-circle-o',
             'core:i/hide' => 'fa-eye',
             'core:i/hierarchylock' => 'fa-lock',
-            'core:i/import' => 'fa-level-up',
+            'core:i/import' => 'fa-cloud-download',
             'core:i/info' => 'fa-info',
             'core:i/invalid' => 'fa-times text-danger',
             'core:i/item' => 'fa-circle',
